@@ -1,0 +1,28 @@
+<svg width="58" height="29" viewBox="0 0 58 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Switch">
+<rect id="Switch_2" width="58" height="29" rx="14.5" fill="white"/>
+<g id="Group 4">
+<circle id="Ellipse 4" cx="14.5" cy="14.5" r="14.5" fill="#ED9324"/>
+<g id="Group 3">
+<rect id="Rectangle 6" x="7.75" y="8.95837" width="5.04167" height="5.04167" stroke="white" stroke-linejoin="round"/>
+<rect id="Rectangle 7" x="15" y="8.95837" width="5.04167" height="5.04167" stroke="white" stroke-linejoin="round"/>
+<rect id="Rectangle 8" x="7.75" y="16.2084" width="5.04167" height="5.04167" stroke="white" stroke-linejoin="round"/>
+<path id="Rectangle 9" d="M15 16.2084H20.0417V21.25H15V16.2084Z" stroke="white" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Group 10">
+<g id="Group 7">
+<circle id="Ellipse 7" cx="34" cy="10" r="2" fill="black"/>
+<line id="Line 3" x1="38" y1="9.5" x2="51" y2="9.5" stroke="black"/>
+</g>
+<g id="Group 8">
+<circle id="Ellipse 7_2" cx="34" cy="15" r="2" fill="black"/>
+<line id="Line 3_2" x1="38" y1="14.5" x2="51" y2="14.5" stroke="black"/>
+</g>
+<g id="Group 9">
+<circle id="Ellipse 7_3" cx="34" cy="20" r="2" fill="black"/>
+<line id="Line 3_3" x1="38" y1="19.5" x2="51" y2="19.5" stroke="black"/>
+</g>
+</g>
+</g>
+</svg>
